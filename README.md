@@ -1,4 +1,4 @@
-# baseapp
+# flame_game_base
 
 A new Flutter project.
 
